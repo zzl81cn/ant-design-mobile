@@ -36,6 +36,7 @@ const eslintrc = {
     'jsx-a11y/img-has-alt': 0,
     'import/extensions': 0,
     'import/no-extraneous-dependencies': 0,
+    'linebreak-style': [0, 'error', 'windows'],
     'react/no-string-refs': 0,
     'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx', '.tsx', '.md'] }],
     'react/no-array-index-key': 0,
